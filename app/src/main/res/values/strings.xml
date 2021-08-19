@@ -2,7 +2,8 @@
     <string name="app_name">Contacts App</string>
     <string name="btn_open_contact">Open contacts</string>
     <string name="tv_open_contact">tap to open contact list</string>
-    <string name="tv_name">Name</string>
-    <string name="tv_id">Id</string>
-    <string name="tv_phone_number">Phone number</string>
+    <string name="tv_contact_id">Contact id</string>
+    <string name="tv_contact_name">Contact name</string>
+    <string name="tv_contact_email">Contact email</string>
+    <string name="tv_contact_phone_number">Contact phone number</string>
 </resources>
